@@ -76,7 +76,7 @@ This project analyzes the **evolution of currency exchange rates in Algeria** fr
 │   ├── raw/               # Raw downloaded data
 │   └── processed/         # Cleaned, merged datasets per currency
 ├── notebooks/
-│   └── analysis.ipynb     # EDA and preprocessing
+│   └── dashboard.py     # EDA and preprocessing
 ├── dashboard/
 │   └── tableau_workbook/  # Tableau workbook file
 └── README.md
