@@ -7,6 +7,7 @@
 ## 📊 Live Dashboard
 
 🔗 **[View on Tableau Public](https://public.tableau.com/shared/GQ4MMTMKQ?:display_count=n&:origin=viz_share_link)**
+and a python interactive 
 **[dashboard](https://curencies.streamlit.app/)**
 
 
